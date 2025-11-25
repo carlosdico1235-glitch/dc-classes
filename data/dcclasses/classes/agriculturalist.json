@@ -1,7 +1,7 @@
 {
 	"index": 7,
 	"attributes": {
-		"generic.max_health": 24,
+		"generic.max_health": 22,
 		"paraglider:max_stamina": 28
 	},
 	"starting_skills": [
@@ -34,6 +34,11 @@
 		},
 		{
 			"id": "minecraft:water_bucket",
+			"count": 1,
+			"slot": "mainhand"
+		},
+		{
+			"id": "minecraft:redstone_torch",
 			"count": 1,
 			"slot": "mainhand"
 		}
